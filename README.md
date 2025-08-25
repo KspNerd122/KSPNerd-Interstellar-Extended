@@ -24,3 +24,8 @@ Players will first gain access to contemporary technologies that have not been w
 We attempt to portray both the tremendous power of these technologies as well as their drawbacks, including the tremendous difficulty of obtaining resources like antimatter and the difficulties associated with storing it safely. The goal being to reward players who develop advanced infrastructure on other planets with new, novel and powerful technologies capable of helping Kerbals explore planets in new and exciting ways.
 
 The principal goal of KSP Interstellar is to expand Kerbal Space Program with interesting technologies and to  provide a logical and compelling technological progression beginning with technologies that could have been available in the 1970s/1980s, then technologies that could be available within the next few years, progressing to technologies that may not be available for many decades, all the way out to speculative technologies that are physically reasonably but may or may not ever be realizable in practice. 
+
+# KspNerd's Fork
+Aims to continue in the vision of KSPI and KSPIE by updating balance, textures, fixing bugs, and improving compatibility, I have always had a preference for KSPI-E and seeing it become widely ridiculed in the community is in my opinion a bad thing, given that despite FFT being a good mod, it does trade a lot of customizability for simplicity, and reduces the engineering options you have for your vessels, KSPNerd's KSPI-E aims to improve KSPI-E, while not taking away the good parts about the mod.
+
+Texture Revamp Order: I'm a busy guy, and I won't be able to do all of the textures at once, so, priority will be placed on the "Worst" looking textures first, those that look fine won't be changed.
